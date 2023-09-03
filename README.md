@@ -3,7 +3,7 @@
 ## The system is divided into two parts
 ### Client and Server
 ### Client part has been created using React.js. It is a basic form which takes in the requried inputs and returns the balance sheet or the decision based on whether the balance sheet has been fetched or not.
-### Server has 2 routes in it, 
+### The Server has been developed using MVC model and it has 2 routes in it, 
 #### 1. getBalanceSheet
 #### 2. getDecision
 #### Both routes have their respective controllers where we make the actual requests for these routes
